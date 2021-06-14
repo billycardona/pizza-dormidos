@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\bin\Debug\dormidos-pizza.exe.config
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\bin\Debug\dormidos-pizza.exe
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\bin\Debug\dormidos-pizza.pdb
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\obj\Debug\dormidos-pizza.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\obj\Debug\dormidos_pizza.Properties.Resources.resources
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\obj\Debug\dormidos-pizza.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\obj\Debug\dormidos-pizza.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\obj\Debug\dormidos-pizza.exe
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\obj\Debug\dormidos-pizza.pdb
+C:\Users\ACER\Desktop\Dormidos-pizza\dormidos-pizza\dormidos-pizza\obj\Debug\dormidos_pizza.Form1.resources
