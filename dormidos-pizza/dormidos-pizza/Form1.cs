@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace dormidos_pizza
 {
     public partial class pizza : Form
@@ -15,6 +16,41 @@ namespace dormidos_pizza
         public pizza()
         {
             InitializeComponent();
+        }
+        //confirmacion msj
+        private void mesajeconfirmacion(string mensaje)
+        {
+            MessageBox.Show(mensaje, "dormidoz pizza", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+        }
+        private void mesajeerror(string mensaje)
+        {
+            MessageBox.Show(mensaje, "dormidoz pizza", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        }
+
+        //acciones de la tabla 
+        private void accionestabla()
+        {
+            data_listado.Columns[0].Visible = false;
+
+            data_listado.Columns[1].HeaderText = "nombre";
+            data_listado.Columns[2].HeaderText = "descripcion ";
+
+
+
+        }
+        //mostrar registros 
+        private void mostrarregistro()
+        {
+            data_listado.DataSource = txt_Nombre.Text;
+            accionestabla();
+        }
+
+        private void buscarregistro()
+        {
+            data_listado.DataSource = txt_descripcion.Text;
+            
+            accionestabla();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -35,6 +71,11 @@ namespace dormidos_pizza
         }
 
         private void txt_descripcion_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bunifuFlatButton1_Click(object sender, EventArgs e)
         {
 
         }
